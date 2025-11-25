@@ -17,7 +17,7 @@
 - Reviewed relevant articles on mobile app development planning.
 
 ---
-## Sprint 1: 22 September - 05 October 2025
+## Weeks 1: 22 September - 05 October 2025
 
 - Developed the project concept, articulating context, problem, and solution.
 - Conducted lifecycle analysis using academic papers and created a Trello board to manage tasks.
@@ -26,25 +26,30 @@
 - Began state of technology review and identified further readings.
 
 ---
-## Sprint 2: 06 October - 19 October 2025
+## Weeks 2: 06 October - 19 October 2025
 - Completed research on different mobile development approaches.
 - Nearly finished the section evaluating related work.
 - Began drafting backend strategies for technological state assessment.
 
 ---
-## Sprint 3: 19 October - 02 November 2025
+## Weeks 3: 19 October - 02 November 2025
 
 - Completed "Related Works" section.
 - Completed analyse in backend strategies, including analyses in several backend as a service platforms
 - Finished initial state of technology review.
 
 ---
-## Sprint 4: 03 November - 16 November 2025
+## Weeks 4: 03 November - 16 November 2025
 
 - Added Azure analysis to backend strategies and wrapped up related sections.
 - Analyzed survey data and created user personas.
 - Initiated user scenes based on survey insights.
 - Volunteered at Web Summit and had a day as Atendee.
+
+## Week 5: 17 November - 23 November 2025
+
+- Finished user scenes;
+- Created 31 user stories with Acceptance Criteria in Jira to follow a ATDD (Functional Requirements) 
 
 Status: 
 
@@ -53,7 +58,16 @@ Status:
 - Explored different ways of Backend Strategies, including several Backend as a Service Platforms
 - Started a UCD process by created a survey, analysed the data
 - Created 2 Personas to represent the types of users, based on the survey
-- Stated User Scenes that describe the routine of the personas when they want to play in public courts without the app and what they could do with the app
+- User Scenes that describe the routine of the personas when they want to play in public courts without the app and what they could do with the app
+- Wrote 31 user stories with Acceptance Criteria
+
+Links:
+[https://github.com/Pedro3Azevedo/the-playground](dissertation repository)
+[https://github.com/pedro-azevedo-ua/the-playground-thesis-document-123951](Dissertation Document Repository)
+[https://the-playground.atlassian.net/?continue=https%3A%2F%2Fthe-playground.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiNWRlY2FjZTlkY2I5NDA0NDhkZDU3MGY2M2E1MDE2ODQiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9](Jira)
+[https://uapt33090-my.sharepoint.com/:f:/g/personal/azevedop_ua_pt/IgAmUecPy-njQrdI77THPlM2AYobVsk7iJjxKAxURCmEjCA?e=VjH1Qi](Weekly Reports)
+
+
 ---
 
 
