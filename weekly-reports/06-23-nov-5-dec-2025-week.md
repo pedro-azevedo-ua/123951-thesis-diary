@@ -1,7 +1,7 @@
 ---
-id: 17-nov-23-nov-2025-week
-start date: 2025-11-17
-end date: 2025-11-23
+id: 24-nov-5-dec-2025-week
+start date: 2025-11-24
+end date: 2025-12-5
 author: Pedro Azevedo
 ---
 
@@ -9,15 +9,16 @@ author: Pedro Azevedo
 |---------------|--------|-----------------------------------------------------------------------|
 | Pedro Azevedo | 123951 | The Playground: mobile platform to connect amateur basketball players |
 
-# Weekly report - 17/11/2025 - 23/11/2025
+# Weekly report - 24/11/2025 - 5/12/2025
 
 ## What was done
 
-- Finished user scenes;
-- Created 31 user stories with Acceptance Criteria in Jira to follow a ATDD (Functional Requirements) 
+- Created Non-Functional Requirements
+- Added to the FR the NFR related
+- Defined the technologies and tools 
+- Design the architecture diagram
+- Wrote the methodology chapter
 
 ## What I want to do
 
-- Write about the rest of the methodology in the document
-- Start Prototype
-- Non Functional Requirements
+- Build Prototypes

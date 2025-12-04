@@ -51,6 +51,14 @@
 - Finished user scenes;
 - Created 31 user stories with Acceptance Criteria in Jira to follow a ATDD (Functional Requirements) 
 
+# Week 6: - 23 November - 5 December 2025
+
+- Created Non-Functional Requirements
+- Added to the FR the NFR related
+- Defined the technologies and tools
+- Design the architecture diagram
+- Wrote the methodology chapter
+
 Status: 
 
 - Setup a context, stated a problem and a proposed solution with a concept of the project;
@@ -60,13 +68,15 @@ Status:
 - Created 2 Personas to represent the types of users, based on the survey
 - User Scenes that describe the routine of the personas when they want to play in public courts without the app and what they could do with the app
 - Wrote 31 user stories with Acceptance Criteria
+- Wrote 22 NFR and linked to US
+- Defined the technologies and tools
+- Design architecture diagram
 
 Links:
 [https://github.com/Pedro3Azevedo/the-playground](dissertation repository)
 [https://github.com/pedro-azevedo-ua/the-playground-thesis-document-123951](Dissertation Document Repository)
 [https://the-playground.atlassian.net/?continue=https%3A%2F%2Fthe-playground.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiNWRlY2FjZTlkY2I5NDA0NDhkZDU3MGY2M2E1MDE2ODQiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9](Jira)
 [https://uapt33090-my.sharepoint.com/:f:/g/personal/azevedop_ua_pt/IgAmUecPy-njQrdI77THPlM2AYobVsk7iJjxKAxURCmEjCA?e=VjH1Qi](Weekly Reports)
-
 
 ---
 
